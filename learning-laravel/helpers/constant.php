@@ -1,0 +1,6 @@
+<?php
+const ACTIVE_STATUS = 1;
+const DEACTIVE_STATUS = 0;
+
+const CREATE_ACTION_SUCCESS_LABEL = 'CREATE_ACTION_SUCCESS';
+const CREATE_ACTION_SUCCESS = 'Thao tac thanh cong';
